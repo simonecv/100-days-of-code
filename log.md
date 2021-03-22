@@ -16,5 +16,11 @@
 
 **Link to work:** [How to Program / Upload Code to ESP32-CAM AI-Thinker (Arduino IDE)](https://randomnerdtutorials.com/program-upload-code-esp32-cam/)
 
+### Day 3: March 22nd, 2021
 
+**Today's Progress**: Datacamp Classes
+
+**Thoughts:** Finished "Intermediate Python"and started a project
+
+**Link to work:** [Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/1adcfd3b38de15adfd1e1520528be4b593249dec)
 

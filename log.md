@@ -20,7 +20,7 @@
 
 **Today's Progress**: Datacamp Classes
 
-**Thoughts:** Finished "Intermediate Python"and started a project
+**Thoughts:** Finished "Intermediate Python" and finished the "Analyzing TV Data" project
 
-**Link to work:** [Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/1adcfd3b38de15adfd1e1520528be4b593249dec)
+**Link to work:** [Intermediate Python Certificate](https://www.datacamp.com/statement-of-accomplishment/course/1adcfd3b38de15adfd1e1520528be4b593249dec)  and [Analyzing TV Data](https://learn.datacamp.com/projects/tv-data)
 

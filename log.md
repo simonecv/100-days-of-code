@@ -24,3 +24,18 @@
 
 **Link to work:** [Intermediate Python Certificate](https://www.datacamp.com/statement-of-accomplishment/course/1adcfd3b38de15adfd1e1520528be4b593249dec)  and [Analyzing TV Data](https://learn.datacamp.com/projects/tv-data)
 
+### Day 4: March 29th, 2021
+
+**Today's Progress:** Updating Tasmota to run the ESP 32 camera and sensors
+
+**Thoughts:** As the tasmota firmware for ESP 32 is still beta, things were harder than needed but everything is running well now. I have installed Virtual Studio, PlatformIO and tried compiling my own code but ended up producing a custom one via a website.
+
+**Link to work:** [Tasmocompiler](https://gold-constrictor-u2nub6gb.ws-us03.gitpod.io/#/workspace/tasmocompiler)
+
+### Day 5: March 30th, 2021
+
+**Today's Progress:** Installed MQTT and configured temperature/humidity sensors
+
+**Thoughts:** The sensors were tested and work really well, and the MQTT broker is really nice. I now have to learn to automate this using NodeRED.
+
+**Link to work:** [MQTT] (https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt/)

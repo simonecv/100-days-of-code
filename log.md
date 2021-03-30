@@ -38,4 +38,4 @@
 
 **Thoughts:** The sensors were tested and work really well, and the MQTT broker is really nice. I now have to learn to automate this using NodeRED.
 
-**Link to work:** [MQTT] (https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt/)
+**Link to work:** [MQTT](https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt/)
